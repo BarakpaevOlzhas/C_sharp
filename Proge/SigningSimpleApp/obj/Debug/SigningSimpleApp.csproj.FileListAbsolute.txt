@@ -1,0 +1,7 @@
+C:\Users\БаракпаевО\source\repos\SigningSimpleApp\SigningSimpleApp\obj\Debug\SigningSimpleApp.csprojAssemblyReference.cache
+C:\Users\БаракпаевО\source\repos\SigningSimpleApp\SigningSimpleApp\obj\Debug\SigningSimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\БаракпаевО\source\repos\SigningSimpleApp\SigningSimpleApp\bin\Debug\SigningSimpleApp.exe.config
+C:\Users\БаракпаевО\source\repos\SigningSimpleApp\SigningSimpleApp\bin\Debug\SigningSimpleApp.exe
+C:\Users\БаракпаевО\source\repos\SigningSimpleApp\SigningSimpleApp\bin\Debug\SigningSimpleApp.pdb
+C:\Users\БаракпаевО\source\repos\SigningSimpleApp\SigningSimpleApp\obj\Debug\SigningSimpleApp.exe
+C:\Users\БаракпаевО\source\repos\SigningSimpleApp\SigningSimpleApp\obj\Debug\SigningSimpleApp.pdb
