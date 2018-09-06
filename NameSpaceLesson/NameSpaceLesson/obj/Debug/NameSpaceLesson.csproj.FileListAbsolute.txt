@@ -1,0 +1,7 @@
+C:\Users\БаракпаевО\source\repos\NameSpaceLesson\NameSpaceLesson\obj\Debug\NameSpaceLesson.csprojAssemblyReference.cache
+C:\Users\БаракпаевО\source\repos\NameSpaceLesson\NameSpaceLesson\obj\Debug\NameSpaceLesson.csproj.CoreCompileInputs.cache
+C:\Users\БаракпаевО\source\repos\NameSpaceLesson\NameSpaceLesson\bin\Debug\NameSpaceLesson.exe.config
+C:\Users\БаракпаевО\source\repos\NameSpaceLesson\NameSpaceLesson\bin\Debug\NameSpaceLesson.exe
+C:\Users\БаракпаевО\source\repos\NameSpaceLesson\NameSpaceLesson\bin\Debug\NameSpaceLesson.pdb
+C:\Users\БаракпаевО\source\repos\NameSpaceLesson\NameSpaceLesson\obj\Debug\NameSpaceLesson.exe
+C:\Users\БаракпаевО\source\repos\NameSpaceLesson\NameSpaceLesson\obj\Debug\NameSpaceLesson.pdb
