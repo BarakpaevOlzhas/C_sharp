@@ -1,0 +1,7 @@
+C:\Users\БаракпаевО\source\repos\Practic\Practic\bin\Debug\Practic.exe.config
+C:\Users\БаракпаевО\source\repos\Practic\Practic\bin\Debug\Practic.exe
+C:\Users\БаракпаевО\source\repos\Practic\Practic\bin\Debug\Practic.pdb
+C:\Users\БаракпаевО\source\repos\Practic\Practic\obj\Debug\Practic.csprojAssemblyReference.cache
+C:\Users\БаракпаевО\source\repos\Practic\Practic\obj\Debug\Practic.csproj.CoreCompileInputs.cache
+C:\Users\БаракпаевО\source\repos\Practic\Practic\obj\Debug\Practic.exe
+C:\Users\БаракпаевО\source\repos\Practic\Practic\obj\Debug\Practic.pdb
